@@ -1,0 +1,14 @@
+{
+  "name": "mapbox",
+  "version": "1.6.4",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "main": "lib/mapbox.js",
+  "scripts": [
+    "lib/mapbox.js"
+  ],
+  "styles": [
+    "lib/mapbox.css"
+  ]
+}

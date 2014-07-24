@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='../public/public.css' rel='stylesheet' media='screen'>
+    <style>
+      body { margin:0; padding:0; }
+      #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+  </head>
+  <body>
+
+    <div id='map'></div>
+
+    <script src='../public/public.js'></script>
+    <script>
+      var _ = require('mapbox');
+      var map = L.mapbox.map('map', 'examples.map-h67hf2ic');
+    </script>
+
+  </body>
+</html>
