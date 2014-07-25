@@ -10,5 +10,10 @@
   ],
   "styles": [
     "lib/mapbox.css"
+  ],
+  "images": [
+    "lib/images/icons-000000@2x.png",
+    "lib/images/icons-ffffff@2x.png",
+    "lib/images/icons.svg"
   ]
 }
